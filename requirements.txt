@@ -1,0 +1,15 @@
+torch==2.1.2
+numpy==1.24.0
+tqdm==4.66.1
+opencv-python==4.8.1.78
+einops==0.7.0
+torchinfo==1.8.0
+torchsummary==1.5.1
+cython==3.0.6
+scipy==1.10.1
+mamba-ssm==1.2.0
+mmcv-full==1.7.2
+
+
+
+
